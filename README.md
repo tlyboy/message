@@ -5,7 +5,7 @@ Terminal message.
 ## Install
 
 ```bash
-npm install -g @tlyboy/message
+npm install @tlyboy/message
 ```
 
 ## Usage
@@ -20,6 +20,10 @@ message.success('success')
 message.error('error')
 message.warning('warning')
 ```
+
+## Related Efforts
+
+- chalk - Terminal string styling done right
 
 ## License
 
