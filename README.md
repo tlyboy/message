@@ -1,12 +1,14 @@
 # message
 
-基于 Chalk 的 Message 提示。
+Chalk Message.
 
-## 使用说明
+## Install
 
 ```bash
 npm install -g @tlyboy/message
 ```
+
+## Usage
 
 ```javascript
 import message from '@tlyboy/message'
@@ -19,6 +21,6 @@ message.error('error')
 message.warning('warning')
 ```
 
-## 使用许可
+## License
 
 [MIT](https://opensource.org/licenses/MIT) © Guany
