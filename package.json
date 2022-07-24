@@ -1,0 +1,25 @@
+{
+  "name": "message",
+  "version": "1.0.0",
+  "description": "Chalk Message",
+  "keywords": [
+    "chalk",
+    "message"
+  ],
+  "license": "MIT",
+  "author": "Guany",
+  "type": "module",
+  "main": "main.js",
+  "files": [
+    "*.js"
+  ],
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
