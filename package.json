@@ -1,11 +1,14 @@
 {
   "name": "message",
   "version": "1.0.0",
-  "description": "Chalk Message",
+  "description": "Terminal message",
   "keywords": [
     "chalk",
+    "terminal",
     "message"
   ],
+  "homepage": "https://github.com/tlyboy/message#readme",
+  "bugs": "https://github.com/tlyboy/message/issues",
   "license": "MIT",
   "author": "Guany",
   "type": "module",

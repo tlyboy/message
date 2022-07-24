@@ -1,6 +1,6 @@
 # message
 
-Chalk Message.
+Terminal message.
 
 ## Install
 
