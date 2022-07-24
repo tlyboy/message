@@ -23,7 +23,7 @@ message.warning('warning')
 
 ## Related Efforts
 
-- chalk - Terminal string styling done right
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right
 
 ## License
 
