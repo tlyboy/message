@@ -1,7 +1,6 @@
 import chalk from 'chalk'
 
 export default {
-  config(options) {},
   info(content, title = 'Info', color = chalk.black.bgBlue) {
     console.log(`${color(` ${title} `)}${!content ? '' : ` ${content}`}`)
   },
