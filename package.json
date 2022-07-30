@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Terminal message",
   "keywords": [
-    "chalk",
     "terminal",
-    "message"
+    "chalk"
   ],
   "homepage": "https://github.com/tlyboy/message#readme",
   "bugs": {
