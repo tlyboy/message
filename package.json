@@ -1,7 +1,7 @@
 {
   "name": "message",
   "version": "1.0.0",
-  "description": "Terminal message",
+  "description": "Terminal Message",
   "keywords": [
     "terminal",
     "chalk"
@@ -16,8 +16,8 @@
   },
   "license": "MIT",
   "author": "Guany",
-  "main": "index.js",
-  "module": "main.js",
+  "type": "module",
+  "main": "main.js",
   "files": [
     "*.js"
   ],
@@ -25,8 +25,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "chalk": "^5.0.1",
-    "esm": "^3.2.25"
+    "chalk": "^5.0.1"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
