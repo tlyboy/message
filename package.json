@@ -1,7 +1,7 @@
 {
   "name": "@tlyboy/message",
   "version": "1.0.0",
-  "description": "Terminal Message",
+  "description": "Terminal message",
   "keywords": [
     "terminal",
     "chalk"
