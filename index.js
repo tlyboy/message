@@ -1,6 +1,6 @@
 import chalk from 'chalk'
 
-const message = {
+export default {
   info(message) {
     console.log(`${chalk.black.bgBlue(' INFO ')} ${message}`)
   },
@@ -14,5 +14,3 @@ const message = {
     console.log(`${chalk.black.bgYellow(' WARN ')} ${message}`)
   }
 }
-
-export default message
