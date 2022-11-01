@@ -1,19 +1,19 @@
 lockfileVersion: 5.4
 
 specifiers:
-  chalk: ^5.0.1
+  chalk: ^5.1.2
   prettier: ^2.7.1
 
 dependencies:
-  chalk: 5.0.1
+  chalk: 5.1.2
 
 devDependencies:
   prettier: 2.7.1
 
 packages:
 
-  /chalk/5.0.1:
-    resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
+  /chalk/5.1.2:
+    resolution: {integrity: sha512-E5CkT4jWURs1Vy5qGJye+XwCkNj7Od3Af7CP6SujMetSMkLs8Do2RWJK5yx1wamHV/op8Rz+9rltjaTQWDnEFQ==}
     engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
     dev: false
 

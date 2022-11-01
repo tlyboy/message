@@ -1,6 +1,6 @@
 {
   "name": "@tlyboy/message",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Terminal message",
   "keywords": [
     "terminal",
@@ -26,7 +26,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "chalk": "^5.0.1"
+    "chalk": "^5.1.2"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
