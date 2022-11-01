@@ -12,5 +12,5 @@ export default {
   },
   warning(message) {
     console.log(`${chalk.black.bgYellow(' WARN ')} ${message}`)
-  }
+  },
 }
