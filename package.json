@@ -1,6 +1,6 @@
 {
   "name": "@tlyboy/message",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Terminal message",
   "keywords": [
     "terminal",
@@ -20,7 +20,8 @@
   "type": "module",
   "main": "index.js",
   "files": [
-    "*.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "format": "prettier --write ."
