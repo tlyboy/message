@@ -12,7 +12,7 @@ const message = {
   },
   warning(message) {
     console.log(`${chalk.black.bgYellow(' WARN ')} ${message}`)
-  },
+  }
 }
 
 export default message
